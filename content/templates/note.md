@@ -1,3 +1,4 @@
+<%* /* Шаблон Obsidian Templater. Создавать через Templater, не копировать вручную. */ -%>
 ---
 title: "<% tp.file.title %>"
 date: <% tp.date.now("YYYY-MM-DD") %>
@@ -6,3 +7,10 @@ type: note
 lang: ru
 draft: true
 ---
+
+
+
+---
+
+*Связанные материалы: [[]]* 
+

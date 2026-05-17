@@ -1,3 +1,4 @@
+<%* /* Шаблон Obsidian Templater. Создавать через Templater, не копировать вручную. */ -%>
 ---
 title: "<% tp.file.title %>"
 description: ""
@@ -7,3 +8,10 @@ type: essay
 lang: ru
 draft: true
 ---
+
+
+
+---
+
+*Связанные материалы: [[]], [[]]* 
+
