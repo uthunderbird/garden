@@ -15,6 +15,10 @@ Keep this project as a curated publication layer rather than a dumping ground fo
 - Project-level coordination docs belong at the project root.
 - Do not place private planning or raw notes inside `content/`.
 
+## Editorial discipline
+- Не переписывать существующие тексты без прямого разрешения автора, если текст уже существует в `content/` и отличается только редактурой/стилистикой.
+- Если нужно изменить черновик, сначала зафиксируй цель правки по содержанию, затем выполняй точечные правки по согласованному списку.
+
 ## Decision rules
 - If uncertain whether a text belongs here or in a writing project, prefer leaving it in the writing project and linking it later.
 - Avoid creating duplicate copies of texts that are still actively evolving elsewhere.
