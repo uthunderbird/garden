@@ -55,6 +55,18 @@ Notes on `templates/`:
 - `content/notes/` — situational, chronological, or draft material. Lower bar. May be incomplete.
 - `content/templates/` — Obsidian Templater templates. Not published (in `ignorePatterns`).
 
+## Publication procedure ("опубликуй")
+
+When the author says "опубликуй" / "publish" about a garden text, this means the FULL procedure, not just flipping a flag. Run every step:
+
+1. **Decide note vs evergreen.** Curated, well-framed, standalone-meaningful → `evergreen/` (high bar). Situational/chronological/incomplete → stays `notes/`. A continuation of an evergreen text goes to evergreen too.
+2. **Remove the `draft` flag.** Delete the `draft:` line entirely (published siblings have no `draft:` line), don't just set `false`.
+3. **Move if needed.** If the decision is evergreen but the file is in `notes/`, `git mv` it into `content/evergreen/`.
+4. **Cross-links.** Add the links the text earns — at minimum, if it continues/answers another published text, add a FORWARD link from that text to this one (the back-link usually already exists), so the arc is navigable both ways.
+5. **Index entry.** Add the page to the relevant category list in `content/evergreen/index.md` (currently the only category index; place it near related pieces, e.g. adjacent to part 1 of an arc). Also update root `INDEX.md` if the page is canonical enough to belong there.
+6. **Commit scope discipline.** Stage and commit ONLY the publication-related files. Never sweep in unrelated uncommitted changes that happen to be in the working tree.
+7. **Commit and push** to `main` (direct commit to `main` is the normal publication path for the garden).
+
 ## Continuity
 - Read [STATE.md](./STATE.md) first.
 - Then read [NEXT.md](./NEXT.md).
