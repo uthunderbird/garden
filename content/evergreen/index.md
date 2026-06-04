@@ -18,6 +18,7 @@ lang: ru
 - [[life-is-strange|Life is Strange: Реакционный Прогрессивизм]]
 - [[storypoints|Сторипоинты измеряют сложность, а не время]]
 - [[mini-igry-soznaniya|Мини-игры сознания]]
+- [[obsession-wanting|Одержимость]]
 
 ## Философия
 
