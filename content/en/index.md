@@ -14,4 +14,4 @@ The English garden is intentionally small for now. It will grow as I translate, 
 ## Navigation
 
 - [[about|About]]
-
+- [[emergency-brake-is-not-the-answer|A Kill Switch Is Not the Answer]]
