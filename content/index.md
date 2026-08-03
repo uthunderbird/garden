@@ -14,5 +14,6 @@ lang: ru
 
 - [[evergreen/index|Всё опубликованное]]
 - [[notes/index|Заметки]]
+- [[librarian/index|Библиотекарь]]
 - [[about|Обо мне]]
 
