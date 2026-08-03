@@ -66,6 +66,10 @@ When the author says "опубликуй" / "publish" about a garden text, this 
 5. **Index entry.** Add the page to the relevant category list in `content/evergreen/index.md` (currently the only category index; place it near related pieces, e.g. adjacent to part 1 of an arc). Also update root `INDEX.md` if the page is canonical enough to belong there.
 6. **Commit scope discipline.** Stage and commit ONLY the publication-related files. Never sweep in unrelated uncommitted changes that happen to be in the working tree.
 7. **Commit and push** to `main` (direct commit to `main` is the normal publication path for the garden).
+8. **Verify deployment and cache.**
+   - The site is built by the `garden-site` repository. A push to `garden` triggers a GitHub Action that updates the submodule in `garden-site` and deploys to GitHub Pages (`dus.garden`).
+   - **Important:** The server uses `cache-control: max-age=600`. The browser will aggressively cache pages for 10 minutes. If changes do not appear immediately, do a hard refresh (`Cmd + Shift + R`), use Incognito, or check headers directly via `curl -I https://dus.garden/path`.
+   - **Local pipeline:** The local build environment is located at `~/Projects/garden-site/`. To sync it manually, run `git pull && git submodule update --remote content` in that directory.
 
 ## Continuity
 - Read [STATE.md](./STATE.md) first.
