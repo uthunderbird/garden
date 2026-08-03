@@ -10,6 +10,7 @@
 - `content/art/` — art-related sections, including poetry and reviews
 - `content/philosophy/` — philosophy-related sections
 - `content/systems/` — systems-related sections
+- `content/librarian/` — the "Librarian" novel in progress
 - `content/en/` — English-facing content
 - `content/images/` — content images
 
@@ -20,8 +21,10 @@
 - `content/en/about.md` — English about page
 - `content/philosophy/index.md` — philosophy section entry
 - `content/systems/index.md` — systems section entry
+- `content/librarian/index.md` — Librarian novel entry
 
 ## Canonical paths
 - If looking for the public entry point, go to `content/index.md`.
 - If looking for philosophy pieces, go to `content/philosophy/`.
 - If looking for art/review material, go to `content/art/`.
+- If looking for the Librarian novel, go to `content/librarian/`.
