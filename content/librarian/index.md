@@ -19,3 +19,4 @@ lang: ru
 
 - [[librarian/01|Глава 1]]
 - [[librarian/02|Глава 2]]
+- [[librarian/03|Глава 3]]
