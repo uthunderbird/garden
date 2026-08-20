@@ -22,3 +22,4 @@ lang: ru
 - [[librarian/03|Глава 3]]
 - [[librarian/04|Глава 4]]
 - [[librarian/05|Глава 5]]
+- [[librarian/06|Глава 6]]

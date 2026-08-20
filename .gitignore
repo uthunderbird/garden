@@ -6,6 +6,3 @@
 *.writer.md
 *.backup-*.md
 *.backup.md
-
-# Черновики глав (не публикуются в git)
-content/librarian/06.md
