@@ -11,6 +11,7 @@ lang: ru
 
 ## Эссе и анализ
 
+- [[kak-obeshchaniya-vyrashchivayut-telo|Как обещания выращивают тело]]
 - [[log-more-rationale-wont-help|Больше логов не докажет, что решал человек: что на самом деле проверять, когда письмо пишет LLM]]
 - [[ty-ne-tu-ruchku-krutish|Ты не ту ручку крутишь]]
 - [[u-provala-est-adres|У провала есть адрес]]
