@@ -16,7 +16,7 @@
 
 ## Key files
 - `content/index.md` — main garden entry page
-- `content/evergreen/kak-obeshchaniya-vyrashchivayut-telo.md` — canonical essay on promises, durable institutions, and selection
+- `content/evergreen/telo-iz-namereniy.md` — canonical essay on intentions, durable institutions, and selection
 - `content/about.md` — about page
 - `content/en/index.md` — English garden entry page
 - `content/en/about.md` — English about page
