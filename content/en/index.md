@@ -15,3 +15,4 @@ The English garden is intentionally small for now. It will grow as I translate, 
 
 - [[about|About]]
 - [[emergency-brake-is-not-the-answer|A Kill Switch Is Not the Answer]]
+- [[log-more-rationale-wont-help|More Rationale Logging Won’t Prove a Human Decided]]

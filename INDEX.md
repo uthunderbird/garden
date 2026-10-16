@@ -29,3 +29,4 @@
 - If looking for philosophy pieces, go to `content/philosophy/`.
 - If looking for art/review material, go to `content/art/`.
 - If looking for the Librarian novel, go to `content/librarian/`.
+- `content/en/log-more-rationale-wont-help.md` — English machine translation of the essay on auditing human review
