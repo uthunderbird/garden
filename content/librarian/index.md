@@ -19,6 +19,10 @@ lang: ru
 > [!caution] Триггер-ворнинг
 > Будьте внимательны. Книга, скорее всего, будет иметь метку 16+. Возможно, будет содержать триггеры о смерти близких людей.
 
+<!-- librarian-downloads:start -->
+Скачать опубликованные главы (1–21): [EPUB](./librarian-published.epub) · [FB2](./librarian-published.fb2).
+<!-- librarian-downloads:end -->
+
 ## Оглавление
 
 > [!info] О времени действия
