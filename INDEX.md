@@ -17,6 +17,7 @@
 ## Key files
 - `content/index.md` — main garden entry page
 - `content/evergreen/telo-iz-namereniy.md` — canonical essay on intentions, durable institutions, and selection
+- `content/evergreen/mir-v-glazah-chudovishcha.md` — второе эссе цикла о Левиафанах: формы учёта, распределение ресурсов и институциональное внимание
 - `content/about.md` — about page
 - `content/en/index.md` — English garden entry page
 - `content/en/about.md` — English about page
