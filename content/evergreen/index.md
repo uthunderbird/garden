@@ -12,7 +12,7 @@ lang: ru
 ## Эссе и анализ
 
 - [[telo-iz-namereniy|Тело из намерений]]
-- [[mir-v-glazah-chudovishcha|Мир, который помещается в глаза чудовища]]
+- [[mir-v-glazah-chudovishcha|Мир глазами чудовища]]
 - [[log-more-rationale-wont-help|Больше логов не докажет, что решал человек: что на самом деле проверять, когда письмо пишет LLM]]
 - [[ty-ne-tu-ruchku-krutish|Ты не ту ручку крутишь]]
 - [[u-provala-est-adres|У провала есть адрес]]
