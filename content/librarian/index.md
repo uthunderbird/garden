@@ -20,7 +20,7 @@ lang: ru
 > Будьте внимательны. Книга, скорее всего, будет иметь метку 16+. Возможно, будет содержать триггеры о смерти близких людей.
 
 <!-- librarian-downloads:start -->
-Скачать опубликованные главы (1–21): [EPUB](./librarian-published.epub) · [FB2](./librarian-published.fb2).
+Скачать опубликованные главы (1–22): [EPUB](./librarian-published.epub) · [FB2](./librarian-published.fb2).
 <!-- librarian-downloads:end -->
 
 ## Оглавление
